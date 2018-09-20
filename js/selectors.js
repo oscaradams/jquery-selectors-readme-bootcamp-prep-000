@@ -2,6 +2,6 @@
 
 
 function paragraphSelector(){
-  $('.p').querySelector
+  $('.p')
   
 }
